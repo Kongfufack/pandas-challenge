@@ -1,0 +1,11 @@
+Summary the analysis:
+There are 15 high schools, 7 government high shcools and 8 Independent high schools. 
+The highest number of students is 4976, and the lowest number of students is 427. The number of students in government schools is much higher than Independent high schools.  The total school budget of government school is higher than Independent schools.
+
+Draws two correct conclusions or comparisons from the calculations.
+
+1. The size of high school will affect the average study results of students (math&reading) in schools. The bigger school size will lead to lower math and reading result. And the lower size will make higher study results. 
+To make an assumption: this phenomenon may causeed by the teachers limitaion of educating such high number of students.
+
+2. All of the results of study indicates that the Independent high schools students have higher study results than government. This may caused by they have lower student number and higher budget than government high schools.
+
